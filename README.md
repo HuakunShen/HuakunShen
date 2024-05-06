@@ -1,6 +1,10 @@
 ### Hi there, this is Huakun
 
+- Personal Website: https://huakunshen.com
+- Knowledge Base: https://huakun.tech
+- Photography Portfolio: https://huakunshen.myportfolio.com
+- DJI Sky Pixel Aerial Photography: https://www.skypixel.com/users/djiuser-j1togd4cot0z
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=HuakunShen&count_private=true&show_icons=true&include_all_commits=true&theme=default" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuakunShen&show_icons=true&theme=transparent)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuakunShen&theme=default" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuakunShen&hide=jupyter%20notebook&langs_count=10&theme=transparent)
