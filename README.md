@@ -8,6 +8,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuakunShen&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuakunShen&hide=jupyter%20notebook&langs_count=10&theme=transparent)
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=huakunshen&theme=github-compact&title_color=51DD5DFF&hide_border=true)
