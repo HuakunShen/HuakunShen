@@ -7,14 +7,26 @@
 - GitHub Skyline: https://git-skyline.huakun.tech/contribution/github/huakunshen
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuakunShen&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuakunShen&hide=jupyter%20notebook&langs_count=10&theme=transparent)
+<!-- Copy-paste in your Readme.md file -->
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=33727687" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=33727687&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @HuakunShen" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=33727687&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=huakunshen&theme=github-compact&title_color=51DD5DFF&hide_border=true)
 
 ### I am working on
+<!-- Copy-paste in your Readme.md file -->
 
-<a href="https://kunkun.sh" target="_blank" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
-  <img src="https://proxy.huakun.tech/api/redirect/https://i.imgur.com/4MjHiKK.png" width="100" />
-  <h4 style="margin-top: 8px; font-size: 16px; color: black;">Kunkun</h4>
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=33727687" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=33727687&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@HuakunShen's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=33727687&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
 </a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
