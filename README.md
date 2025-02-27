@@ -2,6 +2,7 @@
 
 - Personal Website: https://huakunshen.com
 - Knowledge Base: https://huakun.tech
+- Blog: https://blog.huakunshen.com
 - Photography Portfolio: https://huakunshen.myportfolio.com
 - DJI Sky Pixel Aerial Photography: https://www.skypixel.com/users/djiuser-j1togd4cot0z
 - GitHub Skyline: https://git-skyline.huakun.tech/contribution/github/huakunshen
